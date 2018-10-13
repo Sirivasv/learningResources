@@ -1,0 +1,19 @@
+{
+  "name": "testingBabelGrunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "grunt": "^1.0.3",
+    "grunt-babel": "^8.0.0",
+    "load-grunt-tasks": "^4.0.0"
+  }
+}
